@@ -1,14 +1,13 @@
 # 美国传播学博士项目一览
 
+此文源自我的[同名博客文章](https://hongtaoh.com/cn/2021/01/10/us-comm-phd/)。
+
+相关博文：[美国提供全奖的新闻传播硕士项目（持续更新)](https://hongtaoh.com/cn/2020/02/01/us-comm-ma/)
+
+---
 ![US-Map](https://wallpapercave.com/wp/MbXUy9y.jpg)
 
 以上地图来自 [wallpapercave.com](https://wallpapercave.com/wp/MbXUy9y.jpg)
-
-此文源自我的[同名博客文章](https://hongtaoh.com/cn/2021/01/10/us-comm-phd/)。
-
-相关博文：[美国提供全奖的新闻传播硕士项目（持续更新）]（https://hongtaoh.com/cn/2020/02/01/us-comm-ma/）
-
----
 
 我会大致按照美国地图的顺序来介绍各州内的传播学博士项目。由北向南，由西向东。
 
