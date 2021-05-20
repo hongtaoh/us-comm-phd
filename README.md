@@ -1,5 +1,15 @@
 # 美国传播学博士项目一览
 
+![US-Map](https://wallpapercave.com/wp/MbXUy9y.jpg)
+
+以上地图来自 [wallpapercave.com](https://wallpapercave.com/wp/MbXUy9y.jpg)
+
+此文源自我的[同名博客文章](https://hongtaoh.com/cn/2021/01/10/us-comm-phd/)。
+
+相关博文：[美国提供全奖的新闻传播硕士项目（持续更新）]（https://hongtaoh.com/cn/2020/02/01/us-comm-ma/）
+
+---
+
 我会大致按照美国地图的顺序来介绍各州内的传播学博士项目。由北向南，由西向东。
 
 主要参考：
@@ -314,7 +324,7 @@ PhD in Public Communication & Technology
 
 - [Graduate program overview](https://commarts.wisc.edu/graduate/)
 
-- [Grduate handbook](https://commarts.wisc.edu/graduate/graduate-handbook/)
+- [Graduate handbook](https://commarts.wisc.edu/graduate/graduate-handbook/)
 
 - [Faculty](https://commarts.wisc.edu/people/)
 
@@ -826,13 +836,13 @@ UC Davis 的传播学院很年轻，但是发展势头强劲。学院貌似把�
 
 ## Texas
 
-### 86. [The University of Texas at Austin, Moddy College of Communication](https://moody.utexas.edu/)
+### 86. [The University of Texas at Austin, Moody College of Communication](https://moody.utexas.edu/)
 
 有四个系，Communication Studies, RTF, Journalism and Media, Advertising & Public Relations，每个系都有自己的博士项目。
 
 请自己了解详情。
 
-### 87. [Texas Tech Univesity, College of Media & Communication](https://www.depts.ttu.edu/comc/)
+### 87. [Texas Tech University, College of Media & Communication](https://www.depts.ttu.edu/comc/)
 
 有硕士有博士。硕士也许会给全奖。不过每学期五千刀的工资真不高。详情请自己了解。
 
@@ -906,7 +916,7 @@ UC Davis 的传播学院很年轻，但是发展势头强劲。学院貌似把�
 
 - [Admissions](https://www.usf.edu/arts-sciences/departments/communication/graduate/admissions.aspx)
 
-- [Grduate handbook](https://www.usf.edu/arts-sciences/departments/communication/documents/handbook2020-21-oct-update.pdf)
+- [Graduate handbook](https://www.usf.edu/arts-sciences/departments/communication/documents/handbook2020-21-oct-update.pdf)
 
 - [Faculty](https://www.usf.edu/arts-sciences/departments/communication/people/index.aspx)
 
@@ -933,6 +943,7 @@ UC Davis 的传播学院很年轻，但是发展势头强劲。学院貌似把�
 - [Strategic Communication Ph.D.](https://communication.ucf.edu/degree/strategic-communication-ph-d/)
 
 - [Faculty](https://communication.ucf.edu/faculty-staff/) （这些老师中哪些能招博士我不知道，请自己问）
+
 
 
 
