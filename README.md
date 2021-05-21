@@ -347,7 +347,7 @@ PhD in Public Communication & Technology
 
 ### 27. [Northwestern University, Department of Communication Studies](https://communication.northwestern.edu/)
 
-西北大学的传播学和宾夕法尼大学的传播学在我看来都属于美国传播学院的「异类」，属于「西邪」一派。我说它俩异类是因为那里的大部分老师都不是传播学出身。我在 [2020 年去西北大学参加 MTS 博士项目面试](/cn/2020/03/01/northwestern-compus-visit/)时，负责人说 [MTS ](https://mts.northwestern.edu/) 项目的老师没有一个有传播学的博士学位。
+西北大学的传播学和宾夕法尼大学的传播学在我看来都属于美国传播学院的「异类」，属于「西邪」一派。我说它俩异类是因为那里的大部分老师都不是传播学出身。我在 [2020 年去西北大学参加 MTS 博士项目面试](https://hongtaoh.com/cn/2020/03/01/northwestern-compus-visit/)时，负责人说 [MTS ](https://mts.northwestern.edu/) 项目的老师没有一个有传播学的博士学位。
 
 西北传播学院分为[五个系](https://communication.northwestern.edu/departments/)，我只了解其中的 传播学系：[Department of Communication Studies](https://communication.northwestern.edu/communication-studies/)，所以我只介绍它。
 
