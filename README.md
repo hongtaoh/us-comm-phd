@@ -2,7 +2,15 @@
 
 此文源自我的[同名博客文章](https://hongtaoh.com/cn/2021/01/10/us-comm-phd/)。
 
-相关博文：[美国提供全奖的新闻传播硕士项目（持续更新)](https://hongtaoh.com/cn/2020/02/01/us-comm-ma/)
+相关文章：
+
+- [美国提供全奖的新闻传播学硕士项目（不完全统计)](https://github.com/hongtaoh/us-comm-phd/blob/master/us-comm-ma.md)
+
+- [美国的信息学院](https://hongtaoh.com/cn/2021/05/20/us-ischool/)
+
+## 改进与贡献
+
+非常欢迎改进意见！如果你在下面某个项目中就读过，不管是硕士还是博士，欢迎添加该项目的介绍！请直接 Fork 此仓库，修改，然后提交合并请求。如果不知道如何操作，请参考拙文 [How to Make A Pull Request on GitHub](https://hongtaoh.com/en/2020/10/05/github-pull-request/)。
 
 ---
 ![US-Map](https://wallpapercave.com/wp/MbXUy9y.jpg)
