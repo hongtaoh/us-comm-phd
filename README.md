@@ -4,7 +4,9 @@
 
 相关文章：
 
-- [美国提供全奖的新闻传播学硕士项目（不完全统计)](https://github.com/hongtaoh/us-comm-phd/blob/master/us-comm-ma.md)
+- [美国提供全奖的新闻传播学硕士项目（不完全统计)](https://hongtaoh.com/cn/2020/02/01/us-comm-ma/)
+
+- [去读美国的传播学博士几条路](https://hongtaoh.com/cn/2020/05/22/us-phd-comm/)
 
 - [美国的信息学院](https://hongtaoh.com/cn/2021/05/20/us-ischool/)
 
@@ -75,9 +77,7 @@ NCA 显示[阿拉斯加州内没有传播学博士项目](https://www.natcom.org
 
 浙江大学传媒与国际文化学院院长[韦路](https://person.zju.edu.cn/luwei) 在这里拿到的博士学位。
 
-这个学院有两个系，[Strategic Communication](https://murrow.wsu.edu/academics/academic-departments/department-of-strategic-communication/) 和 [Journalism & Media Production](https://murrow.wsu.edu/academics/academic-departments/department-of-journalism-and-media-production/). 前者应该偏科研，后者偏实践。如果我没记错的话，这个学院的 MA 也谁给钱的。从学科设置来看，这里的研究应该偏重公关、广告和健康传播。
-
-申请[截止日期](https://gradschool.wsu.edu/apply/)貌似是 1月10号，不过你最好自己确认一下，出错了我可不管。
+这个学院有两个系，[Strategic Communication](https://murrow.wsu.edu/academics/academic-departments/department-of-strategic-communication/) 和 [Journalism & Media Production](https://murrow.wsu.edu/academics/academic-departments/department-of-journalism-and-media-production/). 前者应该偏科研，后者偏实践。如果我没记错的话，这个学院的 MA 也是给钱的。从学科设置来看，这里的研究应该偏重公关、广告和健康传播。
 
 ## Oregon
 
@@ -93,7 +93,7 @@ NCA 显示[阿拉斯加州内没有传播学博士项目](https://www.natcom.org
 
 这里的硕士是给奖的。学院说的很清楚："The Department strives to fully fund all admitted graduate students who request funding when they apply to the graduate program."
 
-这个学院我不是特别了解。具体请自己上学院网站获取详情。一些可能有用的链接
+这个学院我不是特别了解。具体请自己上学院网站获取详情。一些可能有用的链接：
 
 - [Graduate Program](https://communication.utah.edu/graduate/index.php)
 
@@ -291,7 +291,7 @@ PhD in Public Communication & Technology
 
 ### 20. [University of Iowa, Department of Communication Studies](http://clas.uiowa.edu/commstudies/)
 
-只有博士项目，没有硕士。定性研究很强。定性研究有两个方向，[媒体历史与文化](https://clas.uiowa.edu/commstudies/node/176) 和 [Rhetoric, Culture, Engagement](https://clas.uiowa.edu/commstudies/node/177)。定量重在[人际传播](https://clas.uiowa.edu/commstudies/node/175)。
+只有博士项目，虽然偶尔有学生被录取到硕士项目或者学生觉得博士不适合自己就拿硕士走人 ("The graduate program is primarily a doctoral program, though occasionally students are admitted for the master’s or choose to leave with a master’s. ")。定性研究很强。定性研究有两个方向，[媒体历史与文化](https://clas.uiowa.edu/commstudies/node/176) 和 [Rhetoric, Culture, Engagement](https://clas.uiowa.edu/commstudies/node/177)。定量重在[人际传播](https://clas.uiowa.edu/commstudies/node/175)。
 
 - [申请指南](https://clas.uiowa.edu/commstudies/graduate-program/prospective-graduate-students)
 
@@ -367,7 +367,7 @@ MTS 全称是 [The PhD in Media, Technology, and Society](https://mts.northweste
 
 这个学院给的钱很多，2020 年我参加面试时，负责人 Aaron Shaw 老师说学生每年获得的补助超过三万美元（税前），实在是很高。南加大比这个应该还高一些，但那是因为洛杉矶房价高。
 
-这个学院给我的震撼很大，因为他们的组织和科研方式很像理工科，每个老师都有自己的实验室。可能因为学院不缺钱，再加上老师的背景多样。在这里读五年博士我觉得是一件很享受很奢侈的事。希望你有这个机会！
+这个学院给我的震撼很大，因为他们的组织和科研方式很像理工科，每个老师都有自己的实验室。学院不缺钱，老师的背景多样。在这里读五年博士我觉得是一件很享受很奢侈的事。希望你有这个机会！
 
 更多具体情况请上 [MTS 官网](https://mts.northwestern.edu/faq/)自行了解。
 
@@ -457,7 +457,7 @@ IU Media School 的好处是几乎所有的硕士都是给全奖的，不管是 
 
 ### 38. [Purdue University, Brian Lamb School of Communication](https://cla.purdue.edu/academic/communication/index.html)
 
-我只知道这个学院很有钱。硕士是给全奖的，但是要求托福口语到 27。
+我只知道这个学院很有钱。硕士是给全奖的，但是要求托福口语到 27，这是一条死规定，没有回旋余地。
 
 我了解不多，请自行了解。
 
