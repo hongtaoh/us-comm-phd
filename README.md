@@ -6,7 +6,7 @@
 
 - [美国提供全奖的新闻传播学硕士项目（不完全统计)](https://hongtaoh.com/cn/2020/02/01/us-comm-ma/)
 
-- [去读美国的传播学博士几条路](https://hongtaoh.com/cn/2020/05/22/us-phd-comm/)
+- [去读美国的传播学博士几条路](https://hongtaoh.com/cn/2021/05/22/us-phd-comm/)
 
 - [美国的信息学院](https://hongtaoh.com/cn/2021/05/20/us-ischool/)
 
