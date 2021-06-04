@@ -10,6 +10,12 @@
 
 - [美国的信息学院](https://hongtaoh.com/cn/2021/05/20/us-ischool/)
 
+- [我的美国博士申请之路](https://hongtaoh.com/cn/2021/05/22/my-phd-app/)
+
+- [Computational Social Science, Graduate Programs and Researchers](https://github.com/hongtaoh/CompSocSci)
+
+- [Academic CVs that you can emulate](https://github.com/hongtaoh/cv_emulate)
+
 ## 改进与贡献
 
 非常欢迎改进意见！如果你在下面某个项目中就读过，不管是硕士还是博士，欢迎添加该项目的介绍！请直接 Fork 此仓库，修改，然后提交合并请求。如果不知道如何操作，请参考拙文 [How to Make A Pull Request on GitHub](https://hongtaoh.com/en/2020/10/05/github-pull-request/)。
@@ -45,7 +51,7 @@ NCA 显示[阿拉斯加州内没有传播学博士项目](https://www.natcom.org
 
 学院只有 [6 位教授](https://www.uaf.edu/cojo/contact-us/index.php#Faculty)，研究方向有两个。一个是偏实践类的摄影（系主任就是教摄影的）和纪录片。学术类的方向是组织传播。这个硕士项目很小，但是不妨碍感兴趣的人试一下。学院在 [Q & A](https://www.uaf.edu/cojo/areas-of-study/degrees/grad.php)中也提到，硕士学习可以帮助学生申请博士项目，所以应该还不错。我看了一下[硕士项目的手册](https://www.uafjournalism.com/docs/RevisedGraduateHandbook8-23-2017.pdf)，必修课（24个学分）里包括了一门理论课和两门方法课。选修课里有组织传播和健康传播的课。作为一个硕士项目，我觉得挺好的了。
 
-根据[软科 2020](http://shanghairanking.com/ARWU2020.html) 的排名，[这所学校](https://uaf.edu/uaf/)全球排名在 601-700, 是阿拉斯加唯一一所进去全球前 1000 的学校。
+根据[软科 2020](http://shanghairanking.com/ARWU2020.html) 的排名，[这所学校](https://uaf.edu/uaf/)全球排名在 601-700, 是阿拉斯加唯一一所进全球前 1000 的学校。
 
 如果你本科出身不好，家里没钱支持你读全自费的学校，专业和摄影、纪录片、组织传播、人际传播相关，并且英语比较好，我建议你试一下。具体申请流程和截止日期[学院网站](https://www.uaf.edu/cojo/areas-of-study/degrees/grad.php)没有列出，只给出了这两个链接 ([1](https://www.uaf.edu/admissions/index.php), [2](https://www.uaf.edu/gradsch/other-resources/calendar/dates-and-deadlines/index.php))，请自己查阅相关信息。因为是助教奖，所以我猜测他们对英语口语要求会比较高，想申请的话，口语尽量要好。
 
@@ -447,7 +453,7 @@ IU Media School 的好处是几乎所有的硕士都是给全奖的，不管是 
 
 学院的老师分布在四个方向：Cinema and Media Studies, Communication Science, Journalism, 和 Media Arts and Production。如果你是走学术路线的话，[Communication Science](https://mediaschool.indiana.edu/people/faculty/?class=1&unit=2) 和 [Journalism](https://mediaschool.indiana.edu/people/faculty/?class=1&unit=3) 是最相关的。Journalism 方向，有老师是做公关和广告的，比如 Sung Un Yang、Minjeong Kang、Nicholas Browning。Comm Science 方向的老师绝大部分是定量的。
 
-我在这里读的 MA，我觉得真的挺好的。学校很漂亮，生活舒适，课程设置也不错，老师人都很好，至少我碰到的都还不错，很乐意帮学生。这里有很多机会，就看你怎么利用。当然，这篇帖子上列出的所有学校都有很多机会，重点在于你是否能够挖掘。我在这里的两年，上了 [John Kruschke](https://jkkweb.sitehost.iu.edu/) 老师的 [贝叶斯统计入门课](https://jkkweb.sitehost.iu.edu/jkkteach/P533/index.html) （我基本没听懂，虽然最后也是拿的 A，只能骗别人了）、[安用烈](http://yongyeol.com/) 老师的 [数据可视化](https://yyahn.com/dviz-course/)、[Dong-Chul Seo](https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=seo) 老师的 B650 Quantitative Methods for Public Health Research。这些课都让我受益匪浅，帮我转专业申请到了[威斯康星的计算机博士项目](https://www.cs.wisc.edu/)。所以，不管去哪所学校，关键在于你是否能利用好你现有的资源和机会。
+我在这里读的 MA，我觉得真的挺好的。学校很漂亮，生活舒适，课程设置也不错，老师人都很好，至少我碰到的都还不错，很乐意帮学生。这里有很多机会，就看你怎么利用。当然，这篇帖子上列出的所有学校都有很多机会，重点在于你是否能够挖掘。我在这里的两年，上了 [John Kruschke](https://jkkweb.sitehost.iu.edu/) 老师的[贝叶斯统计入门课](https://jkkweb.sitehost.iu.edu/jkkteach/P533/index.html) （我基本没听懂，虽然最后也是拿的 A，只能骗别人了）、[安用烈](http://yongyeol.com/) 老师的 [数据可视化](https://yyahn.com/dviz-course/)、[Dong-Chul Seo](https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=seo) 老师的 B650 Quantitative Methods for Public Health Research。这些课都让我受益匪浅，帮我转专业申请到了[威斯康星的计算机博士项目](https://www.cs.wisc.edu/)。所以，不管去哪所学校，关键在于你是否能利用好你现有的资源和机会。
 
 - [教授](https://mediaschool.indiana.edu/people/faculty/index.html)
 
