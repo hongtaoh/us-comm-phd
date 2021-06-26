@@ -12,13 +12,25 @@
 
 - [我的美国博士申请之路](https://hongtaoh.com/cn/2021/05/22/my-phd-app/)
 
-- [Computational Social Science, Graduate Programs and Researchers](https://github.com/hongtaoh/CompSocSci)
+- [Computational Social Science: Graduate Programs and Researchers](https://github.com/hongtaoh/CompSocSci)
 
 - [Academic CVs that you can emulate](https://github.com/hongtaoh/cv_emulate)
 
 ## 改进与贡献
 
 非常欢迎改进意见！如果你在下面某个项目中就读过，不管是硕士还是博士，欢迎添加该项目的介绍！请直接 Fork 此仓库，修改，然后提交合并请求。如果不知道如何操作，请参考拙文 [How to Make A Pull Request on GitHub](https://hongtaoh.com/en/2020/10/05/github-pull-request/)。
+
+## 版权
+
+Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
+本作品采用《[署名-非商业性使用-相同方式共享4.0 协议(CC BY-NC-SA 4.0)]([cc-by-nc-sa])》进行授权。全文转载、部分引用、二次演绎必须注明署名和链接，禁止商用，禁止以其他协议发布。
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 ---
 ![US-Map](https://wallpapercave.com/wp/MbXUy9y.jpg)
@@ -453,7 +465,7 @@ IU Media School 的好处是几乎所有的硕士都是给全奖的，不管是 
 
 学院的老师分布在四个方向：Cinema and Media Studies, Communication Science, Journalism, 和 Media Arts and Production。如果你是走学术路线的话，[Communication Science](https://mediaschool.indiana.edu/people/faculty/?class=1&unit=2) 和 [Journalism](https://mediaschool.indiana.edu/people/faculty/?class=1&unit=3) 是最相关的。Journalism 方向，有老师是做公关和广告的，比如 Sung Un Yang、Minjeong Kang、Nicholas Browning。Comm Science 方向的老师绝大部分是定量的。
 
-我在这里读的 MA，我觉得真的挺好的。学校很漂亮，生活舒适，课程设置也不错，老师人都很好，至少我碰到的都还不错，很乐意帮学生。这里有很多机会，就看你怎么利用。当然，这篇帖子上列出的所有学校都有很多机会，重点在于你是否能够挖掘。我在这里的两年，上了 [John Kruschke](https://jkkweb.sitehost.iu.edu/) 老师的[贝叶斯统计入门课](https://jkkweb.sitehost.iu.edu/jkkteach/P533/index.html) （我基本没听懂，虽然最后也是拿的 A，只能骗别人了）、[安用烈](http://yongyeol.com/) 老师的 [数据可视化](https://yyahn.com/dviz-course/)、[Dong-Chul Seo](https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=seo) 老师的 B650 Quantitative Methods for Public Health Research。这些课都让我受益匪浅，帮我转专业申请到了[威斯康星的计算机博士项目](https://www.cs.wisc.edu/)。所以，不管去哪所学校，关键在于你是否能利用好你现有的资源和机会。
+我在这里读的 MA，我觉得真的挺好的。学校很漂亮，生活舒适，课程设置也不错，老师人都很好，至少我碰到的都还不错，很乐意帮学生。这里有很多机会，就看你怎么利用。当然，这篇帖子上列出的所有学校都有很多机会，重点在于你是否能够挖掘。我在这里的两年，上了 [John Kruschke](https://jkkweb.sitehost.iu.edu/) 老师的[贝叶斯统计入门课](https://jkkweb.sitehost.iu.edu/jkkteach/P533/index.html) （我基本没听懂，虽然最后也是拿的 A，只能骗别人了）、[安用烈](http://yongyeol.com/)老师的[数据可视化](https://yyahn.com/dviz-course/)、[Dong-Chul Seo](https://publichealth.indiana.edu/research/faculty-directory/profile.html?user=seo) 老师的 B650 Quantitative Methods for Public Health Research。这些课都让我受益匪浅，帮我转专业申请到了[威斯康星的计算机博士项目](https://www.cs.wisc.edu/)。所以，不管去哪所学校，关键在于你是否能利用好你现有的资源和机会。
 
 - [教授](https://mediaschool.indiana.edu/people/faculty/index.html)
 
