@@ -59,7 +59,7 @@ Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 ## Alaska
 
-NCA 显示[阿拉斯加州内没有传播学博士项目](https://www.natcom.org/nca-doctoral-program-guide?field_docprog_state_value=AK&title=)。我试着在浏览器搜了下，只找到了 University of Alaska Fairbanks 下的 [Department of Communication and Journalism](https://www.uaf.edu/cojo/)。这个学院有一个硕士项目，可以给硕士生[助教全奖](https://www.uaf.edu/cojo/students/comm-masters-ta-positions/)。官网上只列出了[6位助教](https://www.uaf.edu/cojo/contact-us/index.php#TA)，其中有一位中国女生。
+NCA 显示[阿拉斯加州内没有传播学博士项目](https://www.natcom.org/nca-doctoral-program-guide?field_docprog_state_value=AK&title=)。我试着搜了下，只找到了 University of Alaska Fairbanks 下的 [Department of Communication and Journalism](https://www.uaf.edu/cojo/)。这个学院有一个硕士项目，可以给硕士生[助教全奖](https://www.uaf.edu/cojo/students/comm-masters-ta-positions/)。官网上只列出了[6位助教](https://www.uaf.edu/cojo/contact-us/index.php#TA)，其中有一位中国女生。
 
 学院只有 [6 位教授](https://www.uaf.edu/cojo/contact-us/index.php#Faculty)，研究方向有两个。一个是偏实践类的摄影（系主任就是教摄影的）和纪录片。学术类的方向是组织传播。这个硕士项目很小，但是不妨碍感兴趣的人试一下。学院在 [Q & A](https://www.uaf.edu/cojo/areas-of-study/degrees/grad.php)中也提到，硕士学习可以帮助学生申请博士项目，所以应该还不错。我看了一下[硕士项目的手册](https://www.uafjournalism.com/docs/RevisedGraduateHandbook8-23-2017.pdf)，必修课（24个学分）里包括了一门理论课和两门方法课。选修课里有组织传播和健康传播的课。作为一个硕士项目，我觉得挺好的了。
 
