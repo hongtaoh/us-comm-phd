@@ -753,7 +753,7 @@ IU Media School 的好处是几乎所有的硕士都是给全奖的，不管是 
 
 ### 66. [Syracuse University, S.I. Newhouse School of Public Communications](http://newhouse.syr.edu/)
 
-有很多[硕士项目](https://newhouse.syr.edu/academics/programs/masters)，博士项目有一个：[Mass Communications Ph.D.](https://newhouse.syr.edu/academics/mass-communications/)。2018 年的时候我被录取了。它说这是是三年的博士项目，但我猜你多呆一两年应该没啥（只是我猜啊，我不确定）。很老牌的项目。自行查阅吧，没必要我多说。
+有很多[硕士项目](https://newhouse.syr.edu/academics/programs/masters)，博士项目有一个：[Mass Communications Ph.D.](https://newhouse.syr.edu/academics/mass-communications/)。2018 年的时候我被录取了。它说这是三年的博士项目，但我猜你多呆一两年应该没啥（只是我猜啊，我不确定）。很老牌的项目。自行查阅吧，没必要我多说。
 
 - [Faculty](https://newhouse.syr.edu/academics/mass-communications/faculty/)
 
