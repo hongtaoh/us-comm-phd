@@ -437,6 +437,10 @@ TSB 的全称是 [PhD in Technology and Social Behavior](https://tsb.northwester
 
 老牌项目，自行了解。我只知道中国学生申请提交成绩单很麻烦。
 
+[waitingdo](https://github.com/waitingdo) 补充到：
+
+>MSU的 Information and Media PhD 并非来自 Media and Information 部门，而是由Advertising + Public Relations （广告）, Journalism （新闻）, Media and Information （游戏、人机交互） 三个部分合办的。说起来很奇怪，虽然这是一个跨学科项目，但实际上这几个部门是各自招生，学生申请的时候也需要明确自己申请的是哪个部门。如果有时间的话，可以联系项目tailor自己的计划、设计一个跨部门的track，比如ADPR+Journalism。MSU的风险传播（健康、科学、环境）很强，偏定量，最近一两年招了很多新老师。
+
 ### 34. [Michigan State University, Department of Communication](https://comartsci.msu.edu/academics/academic-departments/communication/graduate/phd-communication)
 
 老牌项目，自行了解。我只知道中国学生申请提交成绩单很麻烦。
