@@ -539,7 +539,7 @@ IU Media School 的好处是几乎所有的硕士都是给全奖的，不管是 
 
 ### 44. [Rutgers University, School of Communication & Information](http://comminfo.rutgers.edu/)
 
-2021 年我申请了这个学校，先是被放倒了候补名单，之后一个人拒了 offer 后，我在三月初收到 offer。学校很有钱，一年给我三万刀。真的是闷声发大财的学校。不过我猜那里的房租应该不便宜。我之前不知道，参加了学校的介绍会才知道那里里费城非常近。
+2021 年我申请了这个学校，先是被放到了候补名单，之后一个人拒了 offer 后，我在三月初收到 offer。学校很有钱，一年给我三万刀。真的是闷声发大财的学校。不过我猜那里的房租应该不便宜。我之前不知道，参加了学校的介绍会才知道那里里费城非常近。
 
 这个学院有三个硕士项目，一个博士项目。博士项目叫做 [Ph.D. Program in Communication, Information and Media](https://comminfo.rutgers.edu/graduate-and-professional-programs/phd-program)。我参加学院的介绍会，感觉这里的老师都挺好的，特别是博士项目主管 [Jennifer Theiss](https://comminfo.rutgers.edu/theiss-jennifer)，人看上去很温和。感觉这里像是家一样，很温馨。但这只是我参加远距离 Zoom 会议的初步印象，具体怎么样，我就不知道到了，因为我没有体验过。
 
