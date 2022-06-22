@@ -105,7 +105,7 @@ NCA 显示[阿拉斯加州内没有传播学博士项目](https://www.natcom.org
 
 我对这个学院不是非常了解，如果感兴趣，建议你自己把每个老师的研究介绍仔细看一遍。我只知道从 Jeffrey Hancock 的 [David Markowitz](https://journalism.uoregon.edu/profile/dmark) 从斯坦福博士毕业后去这里任教了。
 
-## Utha
+## Utah
 
 ### 4. [University of Utah, Department of Communication](https://communication.utah.edu/)
 
@@ -449,7 +449,7 @@ TSB 的全称是 [PhD in Technology and Social Behavior](https://tsb.northwester
 
 非常好的学校，非常好的项目。请自行了解。
 
-- [Program Oviewview](https://lsa.umich.edu/comm/graduates/prospective-students/program-overview.html)
+- [Program Overview](https://lsa.umich.edu/comm/graduates/prospective-students/program-overview.html)
 
 - [How to apply](https://lsa.umich.edu/comm/graduates/prospective-students/how-to-apply.html)
 
@@ -793,7 +793,7 @@ IU Media School 的好处是几乎所有的硕士都是给全奖的，不管是 
 
 - [Faculty](http://www.buffalo.edu/cas/communication/faculty.html)
 
-## Pennsylavania
+## Pennsylvania
 
 ### 73. [University of Pennsylvania, Annenberg School for Communication](https://www.asc.upenn.edu/)
 
@@ -883,7 +883,7 @@ UC Davis 的传播学院很年轻，但是发展势头强劲。学院貌似把�
 
 ### 89. [Texas Tech University, Department of Agricultural Education and Communications](https://www.depts.ttu.edu/aged/grad/gen_info.php)
 
-有一个 Phd in agricultural communications and education。小众，我不了解。请自己查阅。
+有一个 PhD in agricultural communications and education。小众，我不了解。请自己查阅。
 
 ## Georgia
 
@@ -891,7 +891,7 @@ UC Davis 的传播学院很年轻，但是发展势头强劲。学院貌似把�
 
 有[硕士也有博士](https://comm.uga.edu/degree-plan-options)，[硕士也许也给全奖](https://comm.uga.edu/assistantship-opportunities)。
 
-有定性也有定量。定性专注 Rhetorial studies, 定量专注人际传播和健康传播。十五个[老师](https://comm.uga.edu/directory/graduate-faculty)，[Jiaying Liu](https://comm.uga.edu/directory/people/jiaying-liu) 老师有 NIH 资助的项目，招博士生，给[四年的 Research assistanships](https://comm.uga.edu/assistantship-opportunities)（2021 年 5 月我看的时候还有，什么结束我不知道，最新信息请自己向学校询问），方向是健康传播，感兴趣可以试试。挺好的项目。详情自己关注。
+有定性也有定量。定性专注 Rhetorical studies, 定量专注人际传播和健康传播。十五个[老师](https://comm.uga.edu/directory/graduate-faculty)，[Jiaying Liu](https://comm.uga.edu/directory/people/jiaying-liu) 老师有 NIH 资助的项目，招博士生，给[四年的 Research assistantships](https://comm.uga.edu/assistantship-opportunities)（2021 年 5 月我看的时候还有，什么结束我不知道，最新信息请自己向学校询问），方向是健康传播，感兴趣可以试试。挺好的项目。详情自己关注。
 
 - [申请流程](https://comm.uga.edu/apply-now)
 
@@ -972,7 +972,6 @@ UC Davis 的传播学院很年轻，但是发展势头强劲。学院貌似把�
 - [Strategic Communication Ph.D.](https://communication.ucf.edu/degree/strategic-communication-ph-d/)
 
 - [Faculty](https://communication.ucf.edu/faculty-staff/) （这些老师中哪些能招博士我不知道，请自己问）
-
 
 
 
