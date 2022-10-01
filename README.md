@@ -103,7 +103,7 @@ NCA 显示[阿拉斯加州内没有传播学博士项目](https://www.natcom.org
 
 俄勒冈只有一所学校有博士点：University of Oregon。这个学院有硕士项目也有博士项目，如果对硕士感兴趣，建议你自己问下硕士给不给全奖。
 
-我对这个学院不是非常了解，如果感兴趣，建议你自己把每个老师的研究介绍仔细看一遍。我只知道从 Jeffrey Hancock 的 [David Markowitz](https://journalism.uoregon.edu/profile/dmark) 从斯坦福博士毕业后去这里任教了。
+我对这个学院不是非常了解，如果感兴趣，建议你自己把每个老师的研究介绍仔细看一遍。我只知道师从 Jeffrey Hancock 的 [David Markowitz](https://journalism.uoregon.edu/profile/dmark) 从斯坦福博士毕业后去这里任教了。
 
 ## Utah
 
