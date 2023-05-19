@@ -765,7 +765,7 @@ IU Media School 的好处是几乎所有的硕士都是给全奖的，不管是 
 
 ### 68. [New York University, Department of Media, Culture & Communication](https://steinhardt.nyu.edu/departments/media-culture-and-communication)
 
-这个项目很好，学生就业很好，能去很好。主要是定性研究。不多说，自行了解。
+这个项目很好，学生就业很好。主要是定性研究。不多说，自行了解。
 
 - [PhD in Media, Culture, and Communication](https://steinhardt.nyu.edu/degree/phd-media-culture-and-communication)
 
