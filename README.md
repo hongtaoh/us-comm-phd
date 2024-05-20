@@ -345,7 +345,7 @@ PhD in Public Communication & Technology
 
 ### 23. [University of Wisconsin, Department of Communication Arts](http://bit.ly/2WiO1kA)
 
-有定性也有定量。我不确定有没有硕士项目。
+有定性也有定量。有硕士项目，官网数据2022年硕士全奖100%覆盖，每月平均2419刀，录取率约为17%。
 
 - [Graduate program overview](https://commarts.wisc.edu/graduate/)
 
@@ -355,7 +355,7 @@ PhD in Public Communication & Technology
 
 ### 25. [University of Wisconsin, Ph.D. Program in Mass Communications](https://masscommphd.wisc.edu/)
 
-[PhD in Mass Communications](https://masscommphd.wisc.edu/) 由 [ Department of Life Sciences Communication](http://lsc.wisc.edu/) 和 [School of Journalism and Mass Communication](http://journalism.wisc.edu/) 联合授课。很老牌的学校和专业。话不多说，请自行了解详情。
+[PhD in Mass Communications](https://masscommphd.wisc.edu/) 由 [ Department of Life Sciences Communication](http://lsc.wisc.edu/) 和 [School of Journalism and Mass Communication](http://journalism.wisc.edu/) 联合授课。很老牌的学校和专业。录取率大约33%，国际生比例较高。
 
 ### 26. [University of Wisconsin-Milwaukee, Department of Communication](https://uwm.edu/communication/)
 
